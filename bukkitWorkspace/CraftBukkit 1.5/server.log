@@ -1,0 +1,63 @@
+2013-09-10 22:00:49 [INFO] Starting minecraft server version 1.5.2
+2013-09-10 22:00:49 [INFO] Loading properties
+2013-09-10 22:00:49 [WARNING] server.properties does not exist
+2013-09-10 22:00:49 [INFO] Generating new properties file
+2013-09-10 22:00:49 [INFO] Default game type: SURVIVAL
+2013-09-10 22:00:49 [INFO] Generating keypair
+2013-09-10 22:00:49 [INFO] Starting Minecraft server on *:25565
+2013-09-10 22:00:50 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2013-09-10 22:00:50 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-09-10 22:00:50 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-09-10 22:00:50 [INFO] Preparing level "world"
+2013-09-10 22:00:50 [INFO] Preparing start region for level 0 (Seed: -508644242058841926)
+2013-09-10 22:00:51 [INFO] Preparing spawn area: 8%
+2013-09-10 22:00:52 [INFO] Preparing spawn area: 25%
+2013-09-10 22:00:53 [INFO] Preparing spawn area: 45%
+2013-09-10 22:00:54 [INFO] Preparing spawn area: 66%
+2013-09-10 22:00:55 [INFO] Preparing spawn area: 95%
+2013-09-10 22:00:55 [INFO] Preparing start region for level 1 (Seed: -508644242058841926)
+2013-09-10 22:00:56 [INFO] Preparing spawn area: 16%
+2013-09-10 22:00:57 [INFO] Preparing spawn area: 45%
+2013-09-10 22:00:58 [INFO] Preparing spawn area: 78%
+2013-09-10 22:00:59 [INFO] Preparing start region for level 2 (Seed: -508644242058841926)
+2013-09-10 22:00:59 [INFO] Preparing spawn area: 12%
+2013-09-10 22:01:00 [INFO] Preparing spawn area: 74%
+2013-09-10 22:01:00 [INFO] Done (10,819s)! For help, type "help" or "?"
+2013-09-10 22:01:21 [INFO] CONSOLE: Stopping the server..[m
+2013-09-10 22:01:21 [INFO] Stopping server
+2013-09-10 22:01:21 [INFO] Saving players
+2013-09-10 22:01:21 [WARNING] DSCT: Socket closed
+2013-09-10 22:01:21 [INFO] Closing listening thread
+2013-09-10 22:01:21 [INFO] Saving worlds
+2013-09-10 22:01:21 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-10 22:01:22 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-10 22:01:23 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-09-10 22:01:24 [INFO] Stopping server
+2013-09-10 22:04:55 [INFO] Starting minecraft server version 1.5.2
+2013-09-10 22:04:55 [INFO] Loading properties
+2013-09-10 22:04:55 [INFO] Default game type: SURVIVAL
+2013-09-10 22:04:55 [INFO] Generating keypair
+2013-09-10 22:04:55 [INFO] Starting Minecraft server on *:25565
+2013-09-10 22:04:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2013-09-10 22:04:55 [INFO] [MyPlugin1] Loading MyPlugin1 v0.0.1
+2013-09-10 22:04:56 [INFO] Preparing level "world"
+2013-09-10 22:04:56 [INFO] Preparing start region for level 0 (Seed: -508644242058841926)
+2013-09-10 22:04:56 [INFO] Preparing start region for level 1 (Seed: -508644242058841926)
+2013-09-10 22:04:57 [INFO] Preparing start region for level 2 (Seed: -508644242058841926)
+2013-09-10 22:04:57 [INFO] Preparing spawn area: 8%
+2013-09-10 22:04:57 [INFO] [MyPlugin1] Enabling MyPlugin1 v0.0.1
+2013-09-10 22:04:57 [INFO] [MyPlugin1] onEnable has been invoked!
+2013-09-10 22:04:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-09-10 22:04:57 [INFO] Done (1,314s)! For help, type "help" or "?"
+2013-09-10 22:21:28 [INFO] Disconnecting Player367 [/127.0.0.1:54285]: Outdated server!
+2013-09-10 22:22:26 [INFO] CONSOLE: Stopping the server..[m
+2013-09-10 22:22:26 [INFO] Stopping server
+2013-09-10 22:22:26 [INFO] [MyPlugin1] Disabling MyPlugin1 v0.0.1
+2013-09-10 22:22:26 [INFO] [MyPlugin1] onDisable has been invoked!
+2013-09-10 22:22:26 [INFO] Saving players
+2013-09-10 22:22:26 [WARNING] DSCT: Socket closed
+2013-09-10 22:22:26 [INFO] Saving worlds
+2013-09-10 22:22:26 [INFO] Closing listening thread
+2013-09-10 22:22:26 [INFO] Saving chunks for level 'world'/Overworld
+2013-09-10 22:22:26 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-09-10 22:22:26 [INFO] Saving chunks for level 'world_the_end'/The End

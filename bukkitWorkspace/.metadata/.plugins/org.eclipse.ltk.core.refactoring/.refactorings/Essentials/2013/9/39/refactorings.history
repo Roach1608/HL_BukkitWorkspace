@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SignWarp.java&apos; to &apos;signs&apos;&#x0A;- Original project: &apos;Essentials&apos;&#x0A;- Destination element: &apos;signs&apos;&#x0A;- Original element: &apos;SignWarp.java&apos;" description="Copy file" element1="Essentials/src/com/earth2me/essentials/signs/SignWarp.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1380137462903" target="/Essentials/Essentials/src/com/earth2me/essentials/signs" units="0" version="1.0"/>
+</session>

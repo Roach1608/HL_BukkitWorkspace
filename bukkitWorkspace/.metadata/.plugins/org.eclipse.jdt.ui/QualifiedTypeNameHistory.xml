@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="org.bukkit.Color"/>
+<fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
+<fullyQualifiedTypeName name="org.bukkit.event.block.BlockRedstoneEvent"/>
+</qualifiedTypeNameHistroy>

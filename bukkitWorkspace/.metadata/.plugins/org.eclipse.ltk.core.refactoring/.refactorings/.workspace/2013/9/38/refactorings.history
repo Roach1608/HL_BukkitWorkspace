@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;MyBukkit1&apos; to &apos;HL_Shortcuts&apos;" description="Rename resource &apos;MyBukkit1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/MyBukkit1" name="HL_Shortcuts" stamp="1379759038479" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;HL_Shortcuts&apos; to &apos;HL_Plugin01&apos;" description="Rename resource &apos;HL_Shortcuts&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HL_Shortcuts" name="HL_Plugin01" stamp="1379760009844" updateReferences="true"/>
+</session>

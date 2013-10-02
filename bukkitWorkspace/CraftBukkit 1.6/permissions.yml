@@ -1,0 +1,10 @@
+---
+groups:
+    Admins:
+        permissions:
+        - '*'
+   
+users:
+    Roach_1608:
+        group:
+        - Admins

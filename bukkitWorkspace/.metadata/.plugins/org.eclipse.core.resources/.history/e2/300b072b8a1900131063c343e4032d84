@@ -1,0 +1,7 @@
+package com.jll;
+
+import JavaPlugin;
+
+public class MyPlugin1 extends JavaPlugin {
+
+}
