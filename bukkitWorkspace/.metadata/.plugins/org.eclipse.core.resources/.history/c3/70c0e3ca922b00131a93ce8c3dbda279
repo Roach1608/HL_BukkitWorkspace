@@ -39,7 +39,7 @@ public class Shortcuts extends JavaPlugin {
 			Bukkit.getServer().dispatchCommand(sender,  "weather storm");
 		} else if (cmd.getName().equals("ct")){
 			System.out.println("/custom teleport " + args[0] + " " + args[1]);
-			Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0] + " " + args[1]);		
+			Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0] + " " + args[1]);
 		} 
 		return false;
 	}
