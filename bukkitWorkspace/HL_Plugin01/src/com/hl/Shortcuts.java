@@ -3,13 +3,23 @@ package com.hl;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
+import org.bukkit.event.Listener;
+import org.bukkit.event.player.PlayerInteractEvent;
+import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Shortcuts extends JavaPlugin {
+public class Shortcuts extends JavaPlugin implements Listener {
 
 	@Override
 	public void onEnable(){
 		getLogger().info("Shortcuts.onEnable has been invoked!");
+		PluginManager pm = this.getServer().getPluginManager();
+		getLogger().info("got PluginManager");
+	    pm.registerEvents(this, this);
+		getLogger().info("registered listener");
 	}
 	
 	@Override
@@ -38,9 +48,25 @@ public class Shortcuts extends JavaPlugin {
 			System.out.println("/weather rain");
 			Bukkit.getServer().dispatchCommand(sender,  "weather storm");
 		} else if (cmd.getName().equals("ct")){
-			System.out.println("/custom teleport " + args[0] + " " + args[1]);
-			Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0] + " " + args[1]);		
+			System.out.println("/custom teleport " + args[0]);
+			System.out.println(sender);
+			Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0]);		
 		} 
 		return false;
+	}
+	
+	@EventHandler(priority=EventPriority.HIGH)
+	public void onPlayerUse(PlayerInteractEvent event){
+	    Player p = event.getPlayer();
+
+	    //System.out.println("This is Class: " + event.getClickedBlock().getClass());
+	    /*
+	    if(p.getItemInHand().getType() == Material.BLAZE_POWDER){
+	        Fireball fire = p.getWorld().spawn(event.getPlayer().getLocation(), Fireball.class);
+	        fire.setShooter(p);
+	    }
+	    else if(p.getItemInHand().getType() == Material.BLAZE_ROD){
+	        //Do whatever
+	    }*/
 	}
 }

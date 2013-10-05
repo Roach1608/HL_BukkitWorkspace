@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=HL_Plugin01/lib\/bukkit-1.6.2-R0.2-20130908.060124-17.jar&lt;org.bukkit.plugin.java(JavaPlugin.class[JavaPlugin" modifiers="1057" timestamp="1378755203000"/>
-<typeInfo handle="=HL_Plugin01/lib\/bukkit-1.6.2-R0.2-20130908.060124-17.jar&lt;org.bukkit.event(Listener.class[Listener" modifiers="1537" timestamp="1378755203000"/>
+<typeInfo handle="=HL_Plugin01/lib\/bukkit-1.6.2-R0.2-20130908.060124-17.jar&lt;org.bukkit.event(Listener.class[Listener" modifiers="1537" timestamp="1380742013000"/>
+<typeInfo handle="=HL_Plugin01/lib\/bukkit-1.6.2-R0.2-20130908.060124-17.jar&lt;org.bukkit.plugin.java(JavaPlugin.class[JavaPlugin" modifiers="1025" timestamp="1380742013000"/>
+<typeInfo handle="=HL_Plugin01/lib\/bukkit-1.6.2-R0.2-20130908.060124-17.jar&lt;org.bukkit(Bukkit.class[Bukkit" modifiers="49" timestamp="1380742013000"/>
 </typeInfoHistroy>

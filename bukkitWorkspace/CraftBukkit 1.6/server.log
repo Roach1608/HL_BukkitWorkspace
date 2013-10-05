@@ -4203,3 +4203,1647 @@ java.io.IOException: Input/output error
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world'/Overworld
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-02 21:52:13 [INFO] Starting minecraft server version 1.6.2
+2013-10-02 21:52:13 [INFO] Loading properties
+2013-10-02 21:52:13 [INFO] Default game type: SURVIVAL
+2013-10-02 21:52:13 [INFO] Generating keypair
+2013-10-02 21:52:13 [INFO] Starting Minecraft server on *:25565
+2013-10-02 21:52:13 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-02 21:52:13 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-02 21:52:13 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-02 21:52:13 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-02 21:52:13 [INFO] Preparing level "world"
+2013-10-02 21:52:14 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-02 21:52:14 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-02 21:52:15 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-02 21:52:15 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-02 21:52:15 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-02 21:52:15 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-02 21:52:15 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-02 21:52:15 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-02 21:52:15 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-02 21:52:15 [WARNING] config broken for xmpp
+2013-10-02 21:52:15 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-02 21:52:15 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-02 21:52:15 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-02 21:52:16 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-02 21:52:16 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-02 21:52:16 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-02 21:52:16 [INFO] Done (2,306s)! For help, type "help" or "?"
+2013-10-02 21:54:10 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-02 21:54:10 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-02 21:54:10 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-02 21:54:10 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-02 21:54:10 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-02 21:54:10 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-02 21:54:10 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-02 21:54:10 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-02 21:54:10 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-02 21:54:10 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-02 21:54:10 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-02 21:54:10 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-02 21:54:10 [WARNING] config broken for xmpp
+2013-10-02 21:54:10 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-02 21:54:10 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-02 21:54:10 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-02 21:54:50 [INFO] Disconnecting Roach_1608 [/127.0.0.1:54010]: Outdated server!
+2013-10-02 21:55:02 [INFO] Disconnecting Roach_1608 [/127.0.0.1:54014]: Outdated server!
+2013-10-02 22:08:12 [INFO] CONSOLE: Stopping the server..[m
+2013-10-02 22:08:12 [INFO] Stopping server
+2013-10-02 22:08:12 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-02 22:08:12 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-02 22:08:12 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-02 22:08:12 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-02 22:08:12 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-02 22:08:12 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-02 22:08:12 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-02 22:08:12 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-02 22:08:12 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-02 22:08:12 [INFO] Saving players
+2013-10-02 22:08:12 [WARNING] DSCT: Socket closed
+2013-10-02 22:08:12 [INFO] Saving worlds
+2013-10-02 22:08:12 [INFO] Closing listening thread
+2013-10-02 22:08:12 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-02 22:08:12 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-02 22:08:12 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-02 22:08:12 [INFO] Stopping server
+2013-10-03 21:19:31 [INFO] Starting minecraft server version 1.6.2
+2013-10-03 21:19:31 [INFO] Loading properties
+2013-10-03 21:19:31 [INFO] Default game type: SURVIVAL
+2013-10-03 21:19:31 [INFO] Generating keypair
+2013-10-03 21:19:31 [INFO] Starting Minecraft server on *:25565
+2013-10-03 21:19:31 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-03 21:19:31 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-03 21:19:31 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-03 21:19:31 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-03 21:19:31 [INFO] Preparing level "world"
+2013-10-03 21:19:32 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-03 21:19:32 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-03 21:19:33 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-03 21:19:33 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-03 21:19:33 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-03 21:19:33 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-03 21:19:34 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-03 21:19:34 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-03 21:19:34 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-03 21:19:34 [WARNING] config broken for xmpp
+2013-10-03 21:19:34 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-03 21:19:34 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-03 21:19:34 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-03 21:19:34 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-03 21:19:34 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-03 21:19:34 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-03 21:19:34 [INFO] Done (2,750s)! For help, type "help" or "?"
+2013-10-03 21:19:47 [INFO] Disconnecting Roach_1608 [/127.0.0.1:52510]: Outdated server!
+2013-10-03 21:23:09 [INFO] Roach_1608[/127.0.0.1:52615] logged in with entity id 373 at ([world] -205.93496952585815, 64.0, 68.91560013702497)
+2013-10-03 21:23:31 [INFO] Roach_1608 issued server command: /cre
+2013-10-03 21:23:36 [INFO] Roach_1608 issued server command: /help
+2013-10-03 21:23:52 [INFO] Connection reset
+2013-10-03 21:23:52 [INFO] Roach_1608 lost connection: disconnect.quitting
+2013-10-03 21:23:52 [INFO] ¤eRoach_1608 left the game.
+2013-10-03 21:55:36 [INFO] CONSOLE: Stopping the server..[m
+2013-10-03 21:55:36 [INFO] Stopping server
+2013-10-03 21:55:36 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-03 21:55:36 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-03 21:55:36 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-03 21:55:36 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-03 21:55:36 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-03 21:55:36 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-03 21:55:36 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-03 21:55:36 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-03 21:55:36 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-03 21:55:36 [INFO] Saving players
+2013-10-03 21:55:36 [WARNING] DSCT: Socket closed
+2013-10-03 21:55:36 [INFO] Closing listening thread
+2013-10-03 21:55:36 [INFO] Saving worlds
+2013-10-03 21:55:36 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-03 21:55:36 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-03 21:55:36 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-04 18:08:33 [INFO] Starting minecraft server version 1.6.2
+2013-10-04 18:08:33 [INFO] Loading properties
+2013-10-04 18:08:33 [INFO] Default game type: SURVIVAL
+2013-10-04 18:08:33 [INFO] Generating keypair
+2013-10-04 18:08:33 [INFO] Starting Minecraft server on *:25565
+2013-10-04 18:08:34 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-04 18:08:34 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 18:08:34 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 18:08:34 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 18:08:34 [INFO] Preparing level "world"
+2013-10-04 18:08:34 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-04 18:08:35 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-04 18:08:35 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-04 18:08:35 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 18:08:35 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 18:08:35 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 18:08:36 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 18:08:36 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 18:08:36 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 18:08:36 [WARNING] config broken for xmpp
+2013-10-04 18:08:36 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 18:08:36 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 18:08:36 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 18:08:36 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 18:08:36 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 18:08:36 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 18:08:36 [INFO] Done (2,205s)! For help, type "help" or "?"
+2013-10-04 18:08:56 [INFO] Roach_1608[/127.0.0.1:51767] logged in with entity id 395 at ([world] -205.93496952585815, 64.0, 68.91560013702497)
+2013-10-04 18:09:07 [INFO] Roach_1608 issued server command: /day
+2013-10-04 18:09:07 [INFO] /time set day
+2013-10-04 18:09:13 [INFO] Roach_1608 lost connection: disconnect.quitting
+2013-10-04 18:09:13 [INFO] Connection reset
+2013-10-04 18:09:13 [INFO] ¤eRoach_1608 left the game.
+2013-10-04 19:15:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:25:50 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 21:26:04 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-04 22:13:17 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 22:13:17 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 22:13:17 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:13:17 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 22:13:17 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:13:17 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 22:13:17 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 22:13:17 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:13:17 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 22:13:17 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 22:13:17 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 22:13:17 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 22:13:17 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 22:13:17 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 22:13:17 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 22:13:17 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 22:13:17 [WARNING] config broken for xmpp
+2013-10-04 22:13:17 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 22:13:17 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 22:13:17 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 22:13:18 [INFO] [Metrics] Connection reset
+2013-10-04 22:14:08 [INFO] Roach_1608[/127.0.0.1:54858] logged in with entity id 463 at ([world] -205.93496952585815, 64.0, 68.91560013702497)
+2013-10-04 22:15:26 [INFO] Roach_1608 issued server command: /set home
+2013-10-04 22:15:40 [INFO] Roach_1608 issued server command: /sethome
+2013-10-04 22:15:54 [INFO] Roach_1608 issued server command: /home
+2013-10-04 22:17:32 [INFO] Roach_1608 issued server command: /svs add /home
+2013-10-04 22:17:38 [INFO] Roach_1608 issued server command: /home 
+2013-10-04 22:18:46 [INFO] Roach_1608 issued server command: /svs add /ct azerty
+2013-10-04 22:18:52 [INFO] Roach_1608 issued server command: /ct azerty 
+2013-10-04 22:18:52 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer.chat(CraftPlayer.java:240)
+	at de.czymm.ServerSigns.tasks.CommandTask.run(CommandTask.java:75)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 13 more
+2013-10-04 22:18:52 [INFO] Roach_1608 issued server command: /home 
+2013-10-04 22:20:25 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 22:20:25 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 22:20:25 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 22:20:25 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 22:20:25 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:20:25 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 22:20:25 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:20:25 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 22:20:25 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 22:20:25 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:20:25 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 22:20:25 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 22:20:25 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 22:20:25 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 22:20:25 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 22:20:25 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 22:20:25 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 22:20:25 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 22:20:25 [WARNING] config broken for xmpp
+2013-10-04 22:20:25 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 22:20:25 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 22:20:25 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 22:20:36 [INFO] Roach_1608 issued server command: /day
+2013-10-04 22:20:36 [INFO] /time set day
+2013-10-04 22:20:54 [INFO] Roach_1608 issued server command: /ct azerty 
+2013-10-04 22:20:54 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer.chat(CraftPlayer.java:240)
+	at de.czymm.ServerSigns.tasks.CommandTask.run(CommandTask.java:75)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 13 more
+2013-10-04 22:20:54 [INFO] Roach_1608 issued server command: /home 
+2013-10-04 22:21:13 [INFO] Roach_1608 issued server command: /svs add /ct azerty
+2013-10-04 22:21:18 [INFO] Roach_1608 issued server command: /ct azerty 
+2013-10-04 22:21:18 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer.chat(CraftPlayer.java:240)
+	at de.czymm.ServerSigns.tasks.CommandTask.run(CommandTask.java:75)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 13 more
+2013-10-04 22:22:41 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 22:22:41 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 22:22:41 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 22:22:41 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 22:22:41 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:22:41 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 22:22:41 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:22:41 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 22:22:41 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 22:22:41 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:22:41 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 22:22:41 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 22:22:41 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 22:22:41 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 22:22:41 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 22:22:41 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 22:22:41 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 22:22:41 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 22:22:41 [WARNING] config broken for xmpp
+2013-10-04 22:22:41 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 22:22:41 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 22:22:41 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 22:22:42 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/ServerSigns
+2013-10-04 22:22:59 [INFO] Roach_1608 issued server command: /ct azerty 
+2013-10-04 22:22:59 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer.chat(CraftPlayer.java:240)
+	at de.czymm.ServerSigns.tasks.CommandTask.run(CommandTask.java:75)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 13 more
+2013-10-04 22:23:09 [INFO] Roach_1608 issued server command: /ct azerty
+2013-10-04 22:23:09 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:829)
+	at net.minecraft.server.v1_6_R2.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-10-04 22:23:27 [INFO] Roach_1608 issued server command: /warp azerty
+2013-10-04 22:25:03 [INFO] Roach_1608 issued server command: /ct azerty 
+2013-10-04 22:25:03 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at org.bukkit.craftbukkit.v1_6_R2.entity.CraftPlayer.chat(CraftPlayer.java:240)
+	at de.czymm.ServerSigns.tasks.CommandTask.run(CommandTask.java:75)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftTask.run(CraftTask.java:53)
+	at org.bukkit.craftbukkit.v1_6_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:345)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:522)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 13 more
+2013-10-04 22:26:17 [INFO] Roach_1608 issued server command: /svs add /warp azerty
+2013-10-04 22:26:24 [INFO] Roach_1608 issued server command: /warp azerty 
+2013-10-04 22:29:51 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-04 22:29:51 [INFO] ¤eRoach_1608 left the game.
+2013-10-04 22:31:04 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 22:31:04 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 22:31:04 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 22:31:04 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 22:31:04 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:31:04 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 22:31:04 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:31:04 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 22:31:04 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 22:31:04 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:31:04 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 22:31:04 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 22:31:04 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 22:31:04 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 22:31:04 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 22:31:04 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 22:31:04 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 22:31:04 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 22:31:04 [WARNING] config broken for xmpp
+2013-10-04 22:31:04 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 22:31:04 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 22:31:04 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 22:31:05 [INFO] [Metrics] Connection reset
+2013-10-04 22:31:54 [INFO] Roach_1608[/127.0.0.1:55193] logged in with entity id 9121 at ([world] -199.5, 66.0, 149.5)
+2013-10-04 22:32:03 [INFO] Roach_1608 issued server command: /day
+2013-10-04 22:32:03 [INFO] /time set day
+2013-10-04 22:33:05 [INFO] Roach_1608 issued server command: /ct
+2013-10-04 22:33:05 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'ct' in plugin Roach_1608 Shortcuts v0.0.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R2.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.handleCommand(PlayerConnection.java:954)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.chat(PlayerConnection.java:872)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:829)
+	at net.minecraft.server.v1_6_R2.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.hl.Shortcuts.onCommand(Shortcuts.java:41)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-10-04 22:33:16 [INFO] Roach_1608 issued server command: /ct azerty
+2013-10-04 22:33:16 [INFO] /custom teleport azerty
+2013-10-04 22:34:29 [INFO] Roach_1608 issued server command: /svs add /ct test
+2013-10-04 22:34:49 [INFO] Roach_1608 issued server command: /svs add /ct test
+2013-10-04 22:34:52 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 22:34:52 [INFO] /custom teleport test
+2013-10-04 22:51:05 [INFO] [Metrics] Connection reset
+2013-10-04 22:52:51 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 22:52:51 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:52:51 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 22:52:51 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 22:52:51 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 22:52:51 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 22:52:51 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 22:52:51 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 22:52:51 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 22:52:51 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:52:51 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 22:52:52 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:52:52 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 22:52:52 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 22:52:52 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 22:52:52 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 22:52:52 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 22:52:52 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 22:52:52 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 22:52:52 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 22:52:52 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 22:52:52 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 22:52:52 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 22:52:52 [WARNING] config broken for xmpp
+2013-10-04 22:52:52 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 22:52:52 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 22:52:52 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 22:53:57 [INFO] Roach_1608 issued server command: /svs add /ct test
+2013-10-04 22:54:02 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 22:54:02 [INFO] /custom teleport test
+2013-10-04 22:54:02 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:01:33 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:01:33 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:01:33 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:01:33 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:01:33 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:01:33 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:01:33 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:01:33 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:01:33 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:01:33 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:01:33 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:01:33 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:01:33 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:01:33 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:01:33 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:01:33 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:01:33 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:01:33 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:01:33 [WARNING] config broken for xmpp
+2013-10-04 23:01:33 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:01:33 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:01:33 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:01:34 [INFO] [Metrics] Connection reset
+2013-10-04 23:01:46 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:01:46 [INFO] /custom teleport test
+2013-10-04 23:01:46 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:01:59 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:01:59 [INFO] /custom teleport test
+2013-10-04 23:01:59 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:15:33 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:15:33 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:15:33 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:15:33 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:15:33 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:15:33 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:15:33 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:15:33 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:15:33 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:15:33 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:15:33 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:15:33 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:15:33 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:15:33 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:15:33 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:15:33 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:15:33 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:15:33 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:15:33 [WARNING] config broken for xmpp
+2013-10-04 23:15:33 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:15:33 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:15:33 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:15:33 [INFO] [Metrics] Connection reset
+2013-10-04 23:15:44 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:15:44 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:15:44 [INFO] /custom teleport test
+2013-10-04 23:15:44 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:15:55 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:15:55 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:15:55 [INFO] /custom teleport test
+2013-10-04 23:15:55 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:17:48 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:17:48 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:17:48 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:17:48 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:17:48 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:17:48 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:17:48 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:17:48 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:17:48 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:17:48 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:17:48 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:17:48 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:17:48 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:17:48 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:17:48 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:17:48 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:17:48 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:17:48 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:17:48 [WARNING] config broken for xmpp
+2013-10-04 23:17:48 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:17:48 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:17:48 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:19:05 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:19:05 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:19:05 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:19:05 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:19:05 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:19:05 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-04 23:19:05 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-04 23:19:05 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:19:05 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:19:05 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:19:05 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:19:05 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:19:05 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:19:05 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:19:05 [WARNING] config broken for xmpp
+2013-10-04 23:19:05 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:19:05 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:19:05 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:19:06 [INFO] [Metrics] Connection reset
+2013-10-04 23:19:29 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:19:29 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:19:29 [INFO] /custom teleport test
+2013-10-04 23:19:29 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:22:16 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:22:16 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:22:16 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:22:16 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:22:16 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:22:16 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-04 23:22:16 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-04 23:22:16 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:22:16 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:22:16 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:22:16 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:22:16 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:22:16 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:22:16 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:22:16 [WARNING] config broken for xmpp
+2013-10-04 23:22:16 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:22:16 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:22:16 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:22:17 [INFO] [Metrics] Connection reset
+2013-10-04 23:22:29 [INFO] Roach_1608 issued server command: /day
+2013-10-04 23:22:29 [INFO] /time set day
+2013-10-04 23:22:44 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:22:44 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-04 23:22:44 [INFO] /custom teleport test
+2013-10-04 23:22:44 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-04 23:23:34 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:23:53 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:24:31 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:24:31 [INFO] /custom teleport test
+2013-10-04 23:24:31 [INFO] org.bukkit.craftbukkit.v1_6_R2.command.CraftBlockCommandSender@70991d56
+2013-10-04 23:25:11 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:25:18 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:25:18 [INFO] /custom teleport test
+2013-10-04 23:25:18 [INFO] org.bukkit.craftbukkit.v1_6_R2.command.CraftBlockCommandSender@70991d56
+2013-10-04 23:25:20 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:25:20 [INFO] /custom teleport test
+2013-10-04 23:25:20 [INFO] org.bukkit.craftbukkit.v1_6_R2.command.CraftBlockCommandSender@70991d56
+2013-10-04 23:25:23 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:25:23 [INFO] /custom teleport test
+2013-10-04 23:25:23 [INFO] org.bukkit.craftbukkit.v1_6_R2.command.CraftBlockCommandSender@70991d56
+2013-10-04 23:26:16 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:26:24 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:26:30 [INFO] Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:08 [INFO] Unknown command. Type "help" for help.[m
+2013-10-04 23:27:11 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 23:27:11 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 23:27:11 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-04 23:27:11 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:27:11 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-04 23:27:11 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 23:27:11 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-04 23:27:11 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-04 23:27:11 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-04 23:27:11 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-04 23:27:11 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-04 23:27:11 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 23:27:12 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 23:27:12 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 23:27:12 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 23:27:12 [WARNING] config broken for xmpp
+2013-10-04 23:27:12 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 23:27:12 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 23:27:12 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 23:27:12 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 23:27:12 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 23:27:12 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 23:27:12 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-10-04 23:27:16 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:18 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:19 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:19 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:20 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:20 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:20 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:20 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:20 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:21 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:21 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:27:29 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-04 23:27:38 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-04 23:28:54 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:29:08 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:29:16 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:29:17 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:29:22 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-04 23:29:27 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.GeneratedMethodAccessor73.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-04 23:29:39 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-04 23:29:39 [INFO] ¤eRoach_1608 left the game.
+2013-10-04 23:29:43 [SEVERE] null
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:220)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at java.io.FilterInputStream.read(FilterInputStream.java:66)
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167)
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267)
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204)
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995)
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1167)
+	at net.minecraft.server.v1_6_R2.ThreadCommandReader.run(ThreadCommandReader.java:31)
+2013-10-04 23:29:43 [INFO] Stopping server
+2013-10-05 19:35:55 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 19:35:55 [WARNING] To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+2013-10-05 19:35:55 [INFO] Loading properties
+2013-10-05 19:35:55 [INFO] Default game type: SURVIVAL
+2013-10-05 19:35:55 [INFO] Generating keypair
+2013-10-05 19:35:55 [INFO] Starting Minecraft server on *:25565
+2013-10-05 19:35:55 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 19:35:55 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 19:35:55 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 19:35:55 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 19:35:55 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 19:35:55 [INFO] Preparing level "world"
+2013-10-05 19:35:55 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 19:35:56 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 19:35:57 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 19:35:57 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 19:35:57 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 19:35:57 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 19:35:57 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 19:35:57 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 19:35:57 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 19:35:57 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 19:35:57 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 19:35:57 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 19:35:57 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 19:35:57 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 19:35:57 [WARNING] config broken for xmpp
+2013-10-05 19:35:57 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 19:35:57 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 19:35:57 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 19:35:57 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 19:35:57 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 19:35:57 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 19:35:58 [INFO] Done (2,272s)! For help, type "help" or "?"
+2013-10-05 19:36:52 [INFO] Roach_1608[/127.0.0.1:53367] logged in with entity id 385 at ([world] -201.13677128267005, 64.0, 66.18834959480425)
+2013-10-05 19:36:57 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 19:37:15 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-05 19:37:29 [INFO] Roach_1608 issued server command: /ct test
+2013-10-05 19:37:29 [INFO] /custom teleport test
+2013-10-05 19:37:29 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-05 19:38:50 [INFO] Roach_1608 issued server command: /sun
+2013-10-05 19:38:50 [INFO] /weather sun
+2013-10-05 19:38:57 [INFO] Roach_1608 issued server command: /day
+2013-10-05 19:38:57 [INFO] /time set day
+2013-10-05 20:55:03 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 20:55:03 [INFO] Loading properties
+2013-10-05 20:55:03 [INFO] Default game type: SURVIVAL
+2013-10-05 20:55:03 [INFO] Generating keypair
+2013-10-05 20:55:03 [INFO] Starting Minecraft server on *:25565
+2013-10-05 20:55:03 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 20:55:04 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 20:55:04 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 20:55:04 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 20:55:04 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 20:55:04 [INFO] Preparing level "world"
+2013-10-05 20:55:04 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 20:55:05 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 20:55:05 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 20:55:06 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 20:56:37 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 20:56:37 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 20:56:37 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 20:56:37 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 20:56:37 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 20:56:37 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 20:56:37 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 20:56:38 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 20:56:38 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 20:56:38 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 20:56:38 [WARNING] config broken for xmpp
+2013-10-05 20:56:38 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 20:56:38 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 20:56:38 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 20:56:38 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 20:56:38 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 20:56:38 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 20:56:38 [INFO] Done (94,175s)! For help, type "help" or "?"
+2013-10-05 20:56:49 [INFO] Roach_1608[/127.0.0.1:54531] logged in with entity id 378 at ([world] -197.5, 64.0, 70.5)
+2013-10-05 20:58:39 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-05 20:58:43 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-05 20:58:44 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 20:58:44 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 20:58:51 [INFO] Roach_1608[/127.0.0.1:54591] logged in with entity id 484 at ([world] -205.80047137904918, 64.0, 69.94438059144748)
+2013-10-05 20:59:59 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 20:59:59 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-05 20:59:59 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 20:59:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:01:57 [INFO] Roach_1608[/127.0.0.1:54633] logged in with entity id 588 at ([world] -201.28572820284748, 64.0, 66.1023922080036)
+2013-10-05 21:06:59 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:07:00 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-05 21:07:00 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:07:00 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:07:11 [INFO] Roach_1608[/127.0.0.1:54745] logged in with entity id 692 at ([world] -201.28572820284748, 64.0, 66.1023922080036)
+2013-10-05 21:07:37 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:07:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:07:45 [INFO] CONSOLE: Stopping the server..[m
+2013-10-05 21:07:45 [INFO] Stopping server
+2013-10-05 21:07:45 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-05 21:07:45 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:07:45 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-05 21:07:45 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-05 21:07:45 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-05 21:07:45 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-05 21:07:45 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-05 21:07:45 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-05 21:07:45 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-05 21:07:45 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:07:45 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-05 21:07:45 [INFO] Saving players
+2013-10-05 21:07:45 [WARNING] DSCT: Socket closed
+2013-10-05 21:07:45 [INFO] Closing listening thread
+2013-10-05 21:07:45 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:07:45 [INFO] Saving worlds
+2013-10-05 21:07:45 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-05 21:07:45 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-05 21:07:45 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-05 21:07:45 [INFO] Stopping server
+2013-10-05 21:08:08 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:08:08 [INFO] Loading properties
+2013-10-05 21:08:08 [INFO] Default game type: SURVIVAL
+2013-10-05 21:08:08 [INFO] Generating keypair
+2013-10-05 21:08:08 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:08:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:08:09 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:08:09 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:08:09 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:08:09 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:08:09 [INFO] Preparing level "world"
+2013-10-05 21:08:09 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:08:10 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:08:10 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:08:11 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:08:11 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:08:11 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:08:11 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:08:11 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:08:11 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:08:11 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:08:11 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:08:11 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:08:11 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:08:11 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:08:11 [WARNING] config broken for xmpp
+2013-10-05 21:08:11 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:08:11 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:08:11 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:08:11 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:08:11 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:08:11 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:08:12 [INFO] Done (2,580s)! For help, type "help" or "?"
+2013-10-05 21:08:23 [INFO] Roach_1608[/127.0.0.1:54768] logged in with entity id 394 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:09:31 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:09:31 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-05 21:09:31 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:09:31 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:09:50 [INFO] Roach_1608[/127.0.0.1:54784] logged in with entity id 547 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:09:55 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:09:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:10:42 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:10:42 [INFO] Loading properties
+2013-10-05 21:10:42 [INFO] Default game type: SURVIVAL
+2013-10-05 21:10:42 [INFO] Generating keypair
+2013-10-05 21:10:42 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:10:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:10:42 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:10:42 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:10:42 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:10:42 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:10:42 [INFO] Preparing level "world"
+2013-10-05 21:10:43 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:10:43 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:10:44 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:10:44 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:10:44 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:10:44 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:10:44 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:10:44 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:10:44 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:10:44 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:10:44 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:10:45 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:10:45 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:10:45 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:10:45 [WARNING] config broken for xmpp
+2013-10-05 21:10:45 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:10:45 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:10:45 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:10:45 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:10:45 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:10:45 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:10:45 [INFO] Done (2,413s)! For help, type "help" or "?"
+2013-10-05 21:10:45 [INFO] [Metrics] Connection reset
+2013-10-05 21:10:56 [INFO] Roach_1608[/127.0.0.1:54808] logged in with entity id 391 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:11:01 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:11:01 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:11:32 [INFO] CONSOLE: Stopping the server..[m
+2013-10-05 21:11:32 [INFO] Stopping server
+2013-10-05 21:11:32 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-05 21:11:32 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:11:32 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-05 21:11:32 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-05 21:11:32 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-05 21:11:32 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-05 21:11:32 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-05 21:11:32 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-05 21:11:32 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-05 21:11:32 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:11:32 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-05 21:11:32 [INFO] Saving players
+2013-10-05 21:11:32 [WARNING] DSCT: Socket closed
+2013-10-05 21:11:32 [INFO] Closing listening thread
+2013-10-05 21:11:32 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:11:32 [INFO] Saving worlds
+2013-10-05 21:11:32 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-05 21:11:32 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-05 21:11:32 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-05 21:11:32 [INFO] Stopping server
+2013-10-05 21:12:15 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:12:15 [INFO] Loading properties
+2013-10-05 21:12:15 [INFO] Default game type: SURVIVAL
+2013-10-05 21:12:15 [INFO] Generating keypair
+2013-10-05 21:12:15 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:12:15 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:12:16 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:12:16 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:12:16 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:12:16 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:12:16 [INFO] Preparing level "world"
+2013-10-05 21:12:16 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:12:17 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:12:17 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:12:17 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:12:17 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:12:17 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:12:17 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:12:17 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:12:17 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:12:17 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:12:17 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:12:18 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:12:18 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:12:18 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:12:18 [WARNING] config broken for xmpp
+2013-10-05 21:12:18 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:12:18 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:12:18 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:12:18 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:12:18 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:12:18 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:12:18 [INFO] Done (2,422s)! For help, type "help" or "?"
+2013-10-05 21:12:20 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/ServerSigns
+2013-10-05 21:12:29 [INFO] Roach_1608[/127.0.0.1:54870] logged in with entity id 387 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:12:41 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:160)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:608)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.NullPointerException
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-05 21:12:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:12:46 [INFO] CONSOLE: Stopping the server..[m
+2013-10-05 21:12:46 [INFO] Stopping server
+2013-10-05 21:12:46 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-05 21:12:46 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:12:46 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-05 21:12:46 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-05 21:12:46 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-05 21:12:46 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-05 21:12:46 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-05 21:12:46 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-05 21:12:46 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-05 21:12:46 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:12:46 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-05 21:12:46 [INFO] Saving players
+2013-10-05 21:12:46 [WARNING] DSCT: Socket closed
+2013-10-05 21:12:46 [INFO] Closing listening thread
+2013-10-05 21:12:46 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:12:47 [INFO] Saving worlds
+2013-10-05 21:12:47 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-05 21:12:47 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-05 21:12:47 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-05 21:13:34 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:13:34 [INFO] Loading properties
+2013-10-05 21:13:34 [INFO] Default game type: SURVIVAL
+2013-10-05 21:13:34 [INFO] Generating keypair
+2013-10-05 21:13:34 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:13:34 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:13:34 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:13:34 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:13:34 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:13:34 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:13:34 [INFO] Preparing level "world"
+2013-10-05 21:13:34 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:13:35 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:13:36 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:13:36 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:13:36 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:13:36 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:13:36 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:13:36 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:13:36 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:13:36 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:13:36 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:13:36 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:13:36 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:13:36 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:13:36 [WARNING] config broken for xmpp
+2013-10-05 21:13:36 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:13:36 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:13:36 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:13:36 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:13:36 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:13:37 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:13:37 [INFO] Done (2,366s)! For help, type "help" or "?"
+2013-10-05 21:13:37 [INFO] [Metrics] Connection reset
+2013-10-05 21:13:57 [INFO] Roach_1608[/127.0.0.1:54918] logged in with entity id 388 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:15:08 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:15:08 [INFO] Loading properties
+2013-10-05 21:15:08 [INFO] Default game type: SURVIVAL
+2013-10-05 21:15:08 [INFO] Generating keypair
+2013-10-05 21:15:08 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:15:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:15:09 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:15:09 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:15:09 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:15:09 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:15:09 [INFO] Preparing level "world"
+2013-10-05 21:15:09 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:15:10 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:15:10 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:15:10 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:15:10 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:15:10 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:15:10 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:15:10 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:15:10 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:15:10 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:15:10 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:15:11 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:15:11 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:15:11 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:15:11 [WARNING] config broken for xmpp
+2013-10-05 21:15:11 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:15:11 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:15:11 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:15:11 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:15:11 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:15:11 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:15:11 [INFO] Done (2,443s)! For help, type "help" or "?"
+2013-10-05 21:15:22 [INFO] Roach_1608[/127.0.0.1:54942] logged in with entity id 387 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:15:29 [INFO] This is Class: class org.bukkit.craftbukkit.v1_6_R2.block.CraftBlock
+2013-10-05 21:15:37 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:15:46 [INFO] CONSOLE: Stopping the server..[m
+2013-10-05 21:15:46 [INFO] Stopping server
+2013-10-05 21:15:46 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-05 21:15:46 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:15:46 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-05 21:15:46 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-05 21:15:46 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-05 21:15:46 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-05 21:15:46 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-05 21:15:46 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-05 21:15:46 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-05 21:15:46 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:15:46 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-05 21:15:46 [INFO] Saving players
+2013-10-05 21:15:46 [WARNING] DSCT: Socket closed
+2013-10-05 21:15:46 [INFO] Closing listening thread
+2013-10-05 21:15:46 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:15:46 [INFO] Saving worlds
+2013-10-05 21:15:46 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-05 21:15:46 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-05 21:15:46 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-05 21:16:09 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:16:09 [INFO] Loading properties
+2013-10-05 21:16:09 [INFO] Default game type: SURVIVAL
+2013-10-05 21:16:09 [INFO] Generating keypair
+2013-10-05 21:16:09 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:16:09 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:16:10 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:16:10 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:16:10 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:16:10 [INFO] Preparing level "world"
+2013-10-05 21:16:10 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:16:11 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:16:11 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:16:11 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:16:11 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:16:11 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:16:11 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:16:12 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:16:12 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:16:12 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:16:12 [WARNING] config broken for xmpp
+2013-10-05 21:16:12 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:16:12 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:16:12 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:16:12 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:16:12 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:16:12 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:16:12 [INFO] Done (2,428s)! For help, type "help" or "?"
+2013-10-05 21:16:13 [INFO] [Metrics] Connection reset
+2013-10-05 21:16:20 [INFO] Roach_1608[/127.0.0.1:54963] logged in with entity id 386 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:16:39 [INFO] CONSOLE: Stopping the server..[m
+2013-10-05 21:16:39 [INFO] Stopping server
+2013-10-05 21:16:39 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-05 21:16:39 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:16:39 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-05 21:16:39 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-05 21:16:39 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-05 21:16:39 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-05 21:16:39 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-05 21:16:39 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-05 21:16:39 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-05 21:16:39 [INFO] Saving players
+2013-10-05 21:16:39 [WARNING] DSCT: Socket closed
+2013-10-05 21:16:39 [INFO] Closing listening thread
+2013-10-05 21:16:39 [INFO] ¤eRoach_1608 left the game.
+2013-10-05 21:16:39 [INFO] Saving worlds
+2013-10-05 21:16:39 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-05 21:16:40 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-05 21:16:40 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-05 21:16:40 [INFO] Stopping server
+2013-10-05 21:21:58 [INFO] Starting minecraft server version 1.6.2
+2013-10-05 21:21:58 [INFO] Loading properties
+2013-10-05 21:21:58 [INFO] Default game type: SURVIVAL
+2013-10-05 21:21:58 [INFO] Generating keypair
+2013-10-05 21:21:58 [INFO] Starting Minecraft server on *:25565
+2013-10-05 21:21:59 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-05 21:21:59 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:21:59 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-05 21:21:59 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-05 21:21:59 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-05 21:21:59 [INFO] Preparing level "world"
+2013-10-05 21:21:59 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-05 21:22:00 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-05 21:22:00 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-05 21:22:00 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-05 21:22:00 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-05 21:22:00 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-05 21:22:00 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-05 21:22:00 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-05 21:22:00 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-05 21:22:00 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-05 21:22:00 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-05 21:22:01 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-05 21:22:01 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-05 21:22:01 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-05 21:22:01 [WARNING] config broken for xmpp
+2013-10-05 21:22:01 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-05 21:22:01 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-05 21:22:01 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-05 21:22:01 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-05 21:22:01 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-05 21:22:01 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-05 21:22:01 [INFO] Done (2,462s)! For help, type "help" or "?"
+2013-10-05 21:22:02 [INFO] [Metrics] Connection reset
+2013-10-05 21:22:12 [INFO] Roach_1608[/127.0.0.1:55138] logged in with entity id 384 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
+2013-10-05 21:22:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:22:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?

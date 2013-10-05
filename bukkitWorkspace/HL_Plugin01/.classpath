@@ -7,12 +7,10 @@
 			<attribute name="javadoc_location" value="http://jd.bukkit.org/apidocs/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials/Essentials.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials/EssentialsAntiBuild.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials/EssentialsChat.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials/EssentialsProtect.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials/EssentialsSpawn.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials-extra/EssentialsGeoIP.jar"/>
-	<classpathentry kind="lib" path="/Users/hadrien/Documents/GitHub/Essentials-extra/EssentialsXMPP.jar"/>
+	<classpathentry kind="lib" path="/Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/craftbukkit-1.6.2-R1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://jd.bukkit.org/apidocs"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

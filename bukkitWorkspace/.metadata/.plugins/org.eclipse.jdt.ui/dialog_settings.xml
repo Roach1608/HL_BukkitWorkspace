@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="/Users/hadrien/Documents/GitHub/Essentials-extra" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="2" key="pageIndex"/>
+		<item value="1" key="pageIndex"/>
 	</section>
 	<section name="JarPackageWizard">
 		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
@@ -27,11 +27,11 @@
 		<item value="false" key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS"/>
 		<item value="" key="jarOptionsWizardPage.DESCRIPTION_LOCATION"/>
 		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="/Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/plugins/hl_plugin01.jar"/>
 			<item value="/Users/hadrien/documents/bukkitWorkspace/CraftBukkit 1.6/plugins/hl_plugin01.jar"/>
 			<item value="/Users/hadrien/documents/bukkitWorkspace/CraftBukkit 1.6/plugins/hl_shortcuts.jar"/>
 			<item value="/Users/hadrien/documents/bukkitWorkspace/CraftBukkit 1.6/plugins/testplugin.jar"/>
 			<item value="/Users/hadrien/bukkitWorkspace/CraftBukkit 1.6/plugins/testplugin.jar"/>
-			<item value="/Users/jll/bukkitWorkspace/CraftBukkit 1.6/plugins/testplugin.jar"/>
 		</list>
 	</section>
 	<section name="RefactoringWizard.preview">
