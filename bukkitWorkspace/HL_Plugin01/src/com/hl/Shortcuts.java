@@ -1,6 +1,8 @@
 package com.hl;
 
 import org.bukkit.Bukkit;
+import org.bukkit.block.Block;
+import org.bukkit.block.Sign;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
@@ -57,8 +59,11 @@ public class Shortcuts extends JavaPlugin implements Listener {
 	
 	@EventHandler(priority=EventPriority.HIGH)
 	public void onPlayerUse(PlayerInteractEvent event){
-	    Player p = event.getPlayer();
-
+	    //Player p = event.getPlayer();
+	    //Block b = event.getClickedBlock();
+	    Sign sign = (Sign)event.getClickedBlock().getState();
+	    sign.setLine(2, "JLL"); 
+	    System.out.println(event.getAction());
 	    //System.out.println("This is Class: " + event.getClickedBlock().getClass());
 	    /*
 	    if(p.getItemInHand().getType() == Material.BLAZE_POWDER){
