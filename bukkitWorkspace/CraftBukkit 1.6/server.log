@@ -5847,3 +5847,6 @@ Caused by: java.lang.NullPointerException
 2013-10-05 21:22:12 [INFO] Roach_1608[/127.0.0.1:55138] logged in with entity id 384 at ([world] -200.94164000073795, 64.0, 66.2883124544911)
 2013-10-05 21:22:22 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
 2013-10-05 21:22:34 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-05 21:29:32 [INFO] Connection reset
+2013-10-05 21:29:32 [INFO] Roach_1608 lost connection: disconnect.quitting
+2013-10-05 21:29:33 [INFO] ¤eRoach_1608 left the game.
