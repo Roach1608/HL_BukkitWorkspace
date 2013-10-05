@@ -4203,3 +4203,81 @@ java.io.IOException: Input/output error
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world'/Overworld
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-10-01 21:00:11 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-04 20:08:22 [INFO] Starting minecraft server version 1.6.2
+2013-10-04 20:08:22 [INFO] Loading properties
+2013-10-04 20:08:22 [INFO] Default game type: SURVIVAL
+2013-10-04 20:08:22 [INFO] Generating keypair
+2013-10-04 20:08:23 [INFO] Starting Minecraft server on *:25565
+2013-10-04 20:08:23 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-04 20:08:23 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-04 20:08:23 [INFO] [CrackShot] Loading CrackShot v0.96.6
+2013-10-04 20:08:23 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-04 20:08:23 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-04 20:08:23 [INFO] Preparing level "world"
+2013-10-04 20:08:23 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-04 20:08:24 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-04 20:08:25 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-04 20:08:25 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 20:08:25 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-04 20:08:25 [INFO] [CrackShot] Enabling CrackShot v0.96.6
+2013-10-04 20:08:25 [INFO] [CrackShot] Default weapons added!
+2013-10-04 20:08:25 [INFO] [CrackShot] General configuration added!
+2013-10-04 20:08:25 [INFO] [CrackShot] Gun-mode activated. Boop!
+2013-10-04 20:08:25 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-04 20:08:26 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-04 20:08:26 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-04 20:08:26 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-04 20:08:26 [WARNING] config broken for xmpp
+2013-10-04 20:08:26 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-04 20:08:26 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-04 20:08:26 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-04 20:08:26 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-04 20:08:26 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-04 20:08:26 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-04 20:08:26 [INFO] Done (2,615s)! For help, type "help" or "?"
+2013-10-04 20:09:43 [INFO] Roach_1608[/127.0.0.1:50006] logged in with entity id 380 at ([world] -205.93496952585815, 64.0, 68.91560013702497)
+2013-10-04 20:10:05 [INFO] Roach_1608 issued server command: /gun
+2013-10-04 20:10:08 [INFO] Roach_1608 issued server command: /help
+2013-10-04 20:10:15 [INFO] Roach_1608 issued server command: /help crackshot
+2013-10-04 20:10:23 [INFO] Roach_1608 issued server command: /help crackshot 2
+2013-10-04 20:10:32 [INFO] Roach_1608 issued server command: /crackshot
+2013-10-04 20:11:03 [INFO] Roach_1608 issued server command: /shot give Roach_1608 pitol
+2013-10-04 20:11:14 [INFO] Roach_1608 issued server command: /shot give Roach_1608 pistol
+2013-10-04 20:11:19 [INFO] Roach_1608 issued server command: /shot give Roach_1608
+2013-10-04 20:11:30 [INFO] Roach_1608 issued server command: /shot list
+2013-10-04 20:11:49 [INFO] Roach_1608 issued server command: /shot get AK-47 1
+2013-10-04 20:12:19 [INFO] Roach_1608 issued server command: /shot get deagle 1
+2013-10-04 20:12:49 [INFO] Roach_1608 issued server command: /shot get C4 1
+2013-10-04 20:13:59 [INFO] CONSOLE: Opped Roach_1608[m
+2013-10-04 20:15:30 [INFO] Roach_1608 issued server command: /shot get carabine 1
+2013-10-04 20:15:41 [INFO] Roach_1608 issued server command: /shot get carbine 1
+2013-10-04 20:16:00 [INFO] Roach_1608 issued server command: /day
+2013-10-04 20:16:00 [INFO] /time set day
+2013-10-04 20:16:45 [INFO] Roach_1608 issued server command: /shot get riotshield 1
+2013-10-04 20:17:11 [INFO] Roach_1608 lost connection: disconnect.quitting
+2013-10-04 20:17:11 [INFO] Connection reset
+2013-10-04 20:17:11 [INFO] ¤eRoach_1608 left the game.
+2013-10-04 20:17:29 [INFO] CONSOLE: Stopping the server..[m
+2013-10-04 20:17:29 [INFO] Stopping server
+2013-10-04 20:17:29 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-04 20:17:29 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-04 20:17:29 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-04 20:17:29 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-04 20:17:29 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-04 20:17:29 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-04 20:17:29 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-04 20:17:29 [INFO] [CrackShot] Disabling CrackShot v0.96.6
+2013-10-04 20:17:29 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-04 20:17:29 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-04 20:17:29 [INFO] Saving players
+2013-10-04 20:17:29 [WARNING] DSCT: Socket closed
+2013-10-04 20:17:29 [INFO] Saving worlds
+2013-10-04 20:17:29 [INFO] Closing listening thread
+2013-10-04 20:17:29 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-04 20:17:29 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-04 20:17:29 [INFO] Saving chunks for level 'world_the_end'/The End
