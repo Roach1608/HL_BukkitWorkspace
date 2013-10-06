@@ -74,6 +74,14 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
+<<<<<<< HEAD
+=======
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="false" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+>>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339
 	<section name="RenameInformationPopup">
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
@@ -84,9 +92,12 @@
 		<item value="false" key="updateTextualMatches"/>
 		<item value="false" key="updateSimilarElements"/>
 	</section>
+<<<<<<< HEAD
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
 		<item value="true" key="create_unimplemented"/>
 		<item value="false" key="create_main"/>
 	</section>
+=======
+>>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339
 </section>
