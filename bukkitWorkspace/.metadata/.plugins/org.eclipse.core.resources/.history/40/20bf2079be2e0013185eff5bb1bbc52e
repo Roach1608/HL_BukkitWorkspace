@@ -1,0 +1,103 @@
+package com.hl;
+
+import org.bukkit.Bukkit;
+import org.bukkit.block.Block;
+import org.bukkit.block.Sign;
+import org.bukkit.command.Command;
+import org.bukkit.command.CommandSender;
+import org.bukkit.entity.Player;
+import org.bukkit.event.block.*;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
+import org.bukkit.event.Listener;
+import org.bukkit.event.player.PlayerInteractEvent;
+import org.bukkit.plugin.PluginManager;
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Shortcuts extends JavaPlugin implements Listener {
+
+	@Override
+	public void onEnable(){
+		getLogger().info("Shortcuts.onEnable has been invoked!");
+		PluginManager pm = this.getServer().getPluginManager();
+		getLogger().info("got PluginManager");
+	    pm.registerEvents(this, this);
+		getLogger().info("registered listener");
+	}
+	
+	@Override
+	public void onDisable(){
+		getLogger().info("Shortcuts.onDisable has been invoked!");
+	}
+	
+	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args){
+		if (cmd.getName().equals("c")){
+			System.out.println("Go to Creative");
+			Bukkit.getServer().dispatchCommand(sender, "gamemode 1");
+			return true;
+		} else if (cmd.getName().equals("s")){
+			System.out.println("Go to Survival");
+			Bukkit.getServer().dispatchCommand(sender,  "gamemode survival @a");
+		} else if (cmd.getName().equals("day")){
+			System.out.println("/time set day");
+			Bukkit.getServer().dispatchCommand(sender,  "time set day");
+		} else if (cmd.getName().equals("night")){
+			System.out.println("/time set night");
+			Bukkit.getServer().dispatchCommand(sender,  "time set night");
+		} else if (cmd.getName().equals("sun")){
+			System.out.println("/weather sun");
+			Bukkit.getServer().dispatchCommand(sender,  "weather sun");
+		} else if (cmd.getName().equals("rain")){
+			System.out.println("/weather rain");
+			Bukkit.getServer().dispatchCommand(sender,  "weather storm");
+		} else if (cmd.getName().equals("ct")){
+			if (free)
+			{
+				System.out.println("/custom teleport " + args[0]);
+				System.out.println(sender);
+				Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0]);
+			}
+		} 
+		return false;
+	}
+	
+	
+	private boolean free = true;
+	
+	@EventHandler(priority=EventPriority.HIGH)
+	public void onPlayerUse(PlayerInteractEvent event){
+		if (event.getAction() == Action
+		{
+		    Player p = event.getPlayer();
+		    //Block b = event.getClickedBlock();
+		    Sign sign = (Sign)event.getClickedBlock().getState();
+		    System.out.println(event.getAction());
+		    
+		    
+		    String counters = sign.getLine(0);
+		    String counter[] = counters.split("/");
+		    
+		    try
+		    {
+		    	int count = Integer.parseInt(counter[0]);
+		    	int max = Integer.parseInt(counter[1]);
+		    	if (count >= max)
+		    	{
+		    		free = false;
+		    	}
+		    	else
+		    	{
+			    	count = count + 1;
+		    		String newCounters = "" + count + "/" + counter[1];
+		    		sign.setLine(0, newCounters);
+		    		sign.update();
+		    	}
+		    }
+		    catch (NumberFormatException ex)
+		    {
+		    	p.sendMessage("Format invalide");
+		    }
+
+		}
+	}
+}

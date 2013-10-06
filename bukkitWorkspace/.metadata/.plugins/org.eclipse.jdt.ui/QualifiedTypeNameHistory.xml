@@ -6,9 +6,9 @@
 <fullyQualifiedTypeName name="org.bukkit.event.EventHandler"/>
 <fullyQualifiedTypeName name="org.bukkit.event.EventPriority"/>
 <fullyQualifiedTypeName name="org.bukkit.event.player.PlayerInteractEvent"/>
-<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
 <fullyQualifiedTypeName name="org.bukkit.plugin.PluginManager"/>
 <fullyQualifiedTypeName name="org.bukkit.event.Listener"/>
 <fullyQualifiedTypeName name="org.bukkit.block.Block"/>
 <fullyQualifiedTypeName name="org.bukkit.block.Sign"/>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
 </qualifiedTypeNameHistroy>

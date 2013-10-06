@@ -4281,3 +4281,471 @@ java.io.IOException: Input/output error
 2013-10-04 20:17:29 [INFO] Saving chunks for level 'world'/Overworld
 2013-10-04 20:17:29 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-10-04 20:17:29 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-06 21:28:50 [INFO] Starting minecraft server version 1.6.2
+2013-10-06 21:28:50 [INFO] Loading properties
+2013-10-06 21:28:50 [INFO] Default game type: SURVIVAL
+2013-10-06 21:28:50 [INFO] Generating keypair
+2013-10-06 21:28:50 [INFO] Starting Minecraft server on *:25565
+2013-10-06 21:28:50 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-06 21:28:51 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:28:51 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-06 21:28:51 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-06 21:28:51 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-06 21:28:51 [INFO] Preparing level "world"
+2013-10-06 21:28:51 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-06 21:28:52 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-06 21:28:52 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-06 21:28:53 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:28:53 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-06 21:28:53 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-06 21:28:53 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-06 21:28:53 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-06 21:28:53 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-06 21:28:53 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-06 21:28:53 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-06 21:28:53 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-06 21:28:53 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-06 21:28:53 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-06 21:28:53 [WARNING] config broken for xmpp
+2013-10-06 21:28:53 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-06 21:28:53 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-06 21:28:53 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-06 21:28:53 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:28:53 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-06 21:28:53 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-06 21:28:54 [INFO] Done (2,994s)! For help, type "help" or "?"
+2013-10-06 21:28:54 [INFO] [Metrics] Server returned HTTP response code: 502 for URL: http://mcstats.org/report/ServerSigns
+2013-10-06 21:29:02 [INFO] Roach_1608[/127.0.0.1:57212] logged in with entity id 394 at ([world] -198.26581940266487, 64.0, 63.867542767346954)
+2013-10-06 21:29:02 [SEVERE] The file /Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/plugins/Essentials/userdata/roach_1608.yml is broken, it has been renamed to /Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/plugins/Essentials/userdata/roach_1608.yml.broken.1381087742964
+while scanning a simple key
+ in "<string>", line 2, column 1:
+    <<<<<<< HEAD
+    ^
+could not found expected ':'
+ in "<string>", line 3, column 8:
+      login: 1381085758883
+           ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:398)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:229)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:178)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingValue.produce(ParserImpl.java:591)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:133)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	at com.earth2me.essentials.EssentialsConf.load(EssentialsConf.java:163)
+	at com.earth2me.essentials.UserData.reloadConfig(UserData.java:43)
+	at com.earth2me.essentials.UserData.<init>(UserData.java:31)
+	at com.earth2me.essentials.User.<init>(User.java:44)
+	at com.earth2me.essentials.UserMap.load(UserMap.java:98)
+	at com.earth2me.essentials.UserMap.load(UserMap.java:16)
+	at com.google.common.cache.CustomConcurrentHashMap$ComputingValueReference.compute(CustomConcurrentHashMap.java:3426)
+	at com.google.common.cache.CustomConcurrentHashMap$Segment.compute(CustomConcurrentHashMap.java:2322)
+	at com.google.common.cache.CustomConcurrentHashMap$Segment.getOrCompute(CustomConcurrentHashMap.java:2291)
+	at com.google.common.cache.CustomConcurrentHashMap.getOrCompute(CustomConcurrentHashMap.java:3802)
+	at com.google.common.cache.ComputingCache.get(ComputingCache.java:46)
+	at com.earth2me.essentials.UserMap.getUser(UserMap.java:65)
+	at com.earth2me.essentials.UserMap.load(UserMap.java:83)
+	at com.earth2me.essentials.UserMap.load(UserMap.java:16)
+	at com.google.common.cache.CustomConcurrentHashMap$ComputingValueReference.compute(CustomConcurrentHashMap.java:3426)
+	at com.google.common.cache.CustomConcurrentHashMap$Segment.compute(CustomConcurrentHashMap.java:2322)
+	at com.google.common.cache.CustomConcurrentHashMap$Segment.getOrCompute(CustomConcurrentHashMap.java:2291)
+	at com.google.common.cache.CustomConcurrentHashMap.getOrCompute(CustomConcurrentHashMap.java:3802)
+	at com.google.common.cache.ComputingCache.get(ComputingCache.java:46)
+	at com.earth2me.essentials.UserMap.getUser(UserMap.java:65)
+	at com.earth2me.essentials.Essentials.getUser(Essentials.java:585)
+	at com.earth2me.essentials.Essentials.getUser(Essentials.java:547)
+	at com.earth2me.essentials.xmpp.EssentialsXMPPPlayerListener.onPlayerJoin(EssentialsXMPPPlayerListener.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at net.minecraft.server.v1_6_R2.PlayerList.c(PlayerList.java:207)
+	at net.minecraft.server.v1_6_R2.PlayerList.a(PlayerList.java:103)
+	at net.minecraft.server.v1_6_R2.PendingConnection.e(PendingConnection.java:133)
+	at net.minecraft.server.v1_6_R2.PendingConnection.d(PendingConnection.java:43)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnectionThread.a(DedicatedServerConnectionThread.java:41)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:29)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+2013-10-06 21:29:03 [INFO] Création d'une configuration vierge : /Users/jll/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/plugins/Essentials/userdata/roach_1608.yml
+2013-10-06 21:29:07 [INFO] Roach_1608 issued server command: /day
+2013-10-06 21:29:07 [INFO] /time set day
+2013-10-06 21:29:13 [INFO] RIGHT_CLICK_BLOCK
+2013-10-06 21:29:13 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:29:13 [INFO] /custom teleport test
+2013-10-06 21:29:13 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:29:30 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at net.minecraft.server.v1_6_R2.PlayerInteractManager.dig(PlayerInteractManager.java:108)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:538)
+	at net.minecraft.server.v1_6_R2.Packet14BlockDig.handle(SourceFile:46)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-06 21:29:31 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at net.minecraft.server.v1_6_R2.PlayerInteractManager.interact(PlayerInteractManager.java:373)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:628)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-06 21:29:33 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at net.minecraft.server.v1_6_R2.PlayerInteractManager.interact(PlayerInteractManager.java:373)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:628)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-06 21:29:38 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at net.minecraft.server.v1_6_R2.PlayerInteractManager.interact(PlayerInteractManager.java:373)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:628)
+	at net.minecraft.server.v1_6_R2.Packet15Place.handle(SourceFile:58)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 16 more
+2013-10-06 21:29:43 [INFO] RIGHT_CLICK_BLOCK
+2013-10-06 21:29:43 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:29:43 [INFO] /custom teleport test
+2013-10-06 21:29:43 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:29:45 [SEVERE] Could not pass event PlayerInteractEvent to Roach_1608 Shortcuts v0.0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at org.bukkit.craftbukkit.v1_6_R2.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:190)
+	at net.minecraft.server.v1_6_R2.BlockPressurePlateBinary.e(BlockPressurePlateBinary.java:53)
+	at net.minecraft.server.v1_6_R2.BlockPressurePlateAbstract.b(BlockPressurePlateAbstract.java:92)
+	at net.minecraft.server.v1_6_R2.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:86)
+	at net.minecraft.server.v1_6_R2.Entity.C(Entity.java:734)
+	at net.minecraft.server.v1_6_R2.Entity.move(Entity.java:677)
+	at net.minecraft.server.v1_6_R2.EntityLiving.e(EntityLiving.java:1187)
+	at net.minecraft.server.v1_6_R2.EntityHuman.e(EntityHuman.java:1229)
+	at net.minecraft.server.v1_6_R2.EntityLiving.c(EntityLiving.java:1443)
+	at net.minecraft.server.v1_6_R2.EntityHuman.c(EntityHuman.java:371)
+	at net.minecraft.server.v1_6_R2.EntityLiving.l_(EntityLiving.java:1276)
+	at net.minecraft.server.v1_6_R2.EntityHuman.l_(EntityHuman.java:157)
+	at net.minecraft.server.v1_6_R2.EntityPlayer.h(EntityPlayer.java:223)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.a(PlayerConnection.java:343)
+	at net.minecraft.server.v1_6_R2.Packet10Flying.handle(SourceFile:136)
+	at net.minecraft.server.v1_6_R2.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R2.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R2.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R2.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.t(MinecraftServer.java:590)
+	at net.minecraft.server.v1_6_R2.DedicatedServer.t(DedicatedServer.java:226)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.s(MinecraftServer.java:486)
+	at net.minecraft.server.v1_6_R2.MinecraftServer.run(MinecraftServer.java:419)
+	at net.minecraft.server.v1_6_R2.ThreadServerApplication.run(SourceFile:582)
+Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.CraftBlockState cannot be cast to org.bukkit.block.Sign
+	at com.hl.Shortcuts.onPlayerUse(Shortcuts.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 27 more
+2013-10-06 21:31:45 [INFO] Starting minecraft server version 1.6.2
+2013-10-06 21:31:45 [INFO] Loading properties
+2013-10-06 21:31:45 [INFO] Default game type: SURVIVAL
+2013-10-06 21:31:45 [INFO] Generating keypair
+2013-10-06 21:31:45 [INFO] Starting Minecraft server on *:25565
+2013-10-06 21:31:46 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-06 21:31:46 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:31:46 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-06 21:31:46 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-06 21:31:46 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-06 21:31:46 [INFO] Preparing level "world"
+2013-10-06 21:31:46 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-06 21:31:47 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-06 21:31:47 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-06 21:31:48 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:31:48 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-06 21:31:48 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-06 21:31:48 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-06 21:31:48 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-06 21:31:48 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-06 21:31:48 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-06 21:31:48 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-06 21:31:48 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-06 21:31:48 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-06 21:31:48 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-06 21:31:48 [WARNING] config broken for xmpp
+2013-10-06 21:31:48 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-06 21:31:48 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-06 21:31:48 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-06 21:31:48 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:31:48 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-06 21:31:48 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-06 21:31:48 [INFO] Done (2,458s)! For help, type "help" or "?"
+2013-10-06 21:31:55 [INFO] Roach_1608[/127.0.0.1:57266] logged in with entity id 389 at ([world] -198.26581940266487, 64.0, 63.867542767346954)
+2013-10-06 21:31:59 [INFO] Roach_1608 issued server command: /day
+2013-10-06 21:31:59 [INFO] /time set day
+2013-10-06 21:32:03 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:32:03 [INFO] /custom teleport test
+2013-10-06 21:32:03 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:32:34 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:32:34 [INFO] /custom teleport test
+2013-10-06 21:32:34 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:33:23 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:33:23 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:33:23 [INFO] /custom teleport test
+2013-10-06 21:33:23 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:33:31 [INFO] CONSOLE: Stopping the server..[m
+2013-10-06 21:33:31 [INFO] Stopping server
+2013-10-06 21:33:31 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-06 21:33:31 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:33:31 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-06 21:33:31 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-06 21:33:31 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-06 21:33:31 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-06 21:33:31 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-06 21:33:31 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-06 21:33:31 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-06 21:33:31 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:33:31 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-06 21:33:31 [INFO] Saving players
+2013-10-06 21:33:31 [WARNING] DSCT: Socket closed
+2013-10-06 21:33:31 [INFO] Closing listening thread
+2013-10-06 21:33:31 [INFO] §eRoach_1608 left the game.
+2013-10-06 21:33:31 [INFO] Saving worlds
+2013-10-06 21:33:31 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-06 21:33:31 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-06 21:33:31 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-06 21:35:42 [INFO] Starting minecraft server version 1.6.2
+2013-10-06 21:35:42 [INFO] Loading properties
+2013-10-06 21:35:42 [INFO] Default game type: SURVIVAL
+2013-10-06 21:35:42 [INFO] Generating keypair
+2013-10-06 21:35:42 [INFO] Starting Minecraft server on *:25565
+2013-10-06 21:35:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-06 21:35:42 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:35:42 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-06 21:35:42 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-06 21:35:42 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-06 21:35:42 [INFO] Preparing level "world"
+2013-10-06 21:35:42 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-06 21:35:43 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-06 21:35:44 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-06 21:35:44 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:35:44 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-06 21:35:44 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-06 21:35:44 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-06 21:35:44 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-06 21:35:44 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-06 21:35:44 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-06 21:35:44 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-06 21:35:44 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-06 21:35:45 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-06 21:35:45 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-06 21:35:45 [WARNING] config broken for xmpp
+2013-10-06 21:35:45 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-06 21:35:45 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-06 21:35:45 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-06 21:35:45 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:35:45 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-06 21:35:45 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-06 21:35:45 [INFO] Done (2,469s)! For help, type "help" or "?"
+2013-10-06 21:35:46 [INFO] [Metrics] Connection reset
+2013-10-06 21:35:53 [INFO] Roach_1608[/127.0.0.1:57334] logged in with entity id 396 at ([world] -197.5, 64.0, 70.5)
+2013-10-06 21:35:59 [INFO] Roach_1608 issued server command: /ct test 
+2013-10-06 21:35:59 [INFO] /custom teleport test
+2013-10-06 21:35:59 [INFO] CraftPlayer{name=Roach_1608}
+2013-10-06 21:36:18 [INFO] Roach_1608 issued server command: /sun
+2013-10-06 21:36:18 [INFO] /weather sun
+2013-10-06 21:36:53 [INFO] CONSOLE: Stopping the server..[m
+2013-10-06 21:36:53 [INFO] Stopping server
+2013-10-06 21:36:53 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-06 21:36:53 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:36:53 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-06 21:36:53 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-06 21:36:53 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-06 21:36:53 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-06 21:36:53 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-06 21:36:53 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-06 21:36:53 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-06 21:36:53 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:36:53 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-06 21:36:53 [INFO] Saving players
+2013-10-06 21:36:53 [WARNING] DSCT: Socket closed
+2013-10-06 21:36:53 [INFO] Closing listening thread
+2013-10-06 21:36:53 [INFO] §eRoach_1608 left the game.
+2013-10-06 21:36:53 [INFO] Saving worlds
+2013-10-06 21:36:53 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-06 21:36:53 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-06 21:36:53 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-06 21:37:05 [INFO] Starting minecraft server version 1.6.2
+2013-10-06 21:37:05 [INFO] Loading properties
+2013-10-06 21:37:05 [INFO] Default game type: SURVIVAL
+2013-10-06 21:37:05 [INFO] Generating keypair
+2013-10-06 21:37:05 [INFO] Starting Minecraft server on *:25565
+2013-10-06 21:37:06 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-06 21:37:06 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:37:06 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-06 21:37:06 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-06 21:37:06 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-06 21:37:06 [INFO] Preparing level "world"
+2013-10-06 21:37:06 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-06 21:37:07 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-06 21:37:07 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-06 21:37:07 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:37:07 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-06 21:37:07 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-06 21:37:07 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-06 21:37:07 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-06 21:37:07 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-06 21:37:07 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-06 21:37:07 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-06 21:37:08 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-06 21:37:08 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-06 21:37:08 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-06 21:37:08 [WARNING] config broken for xmpp
+2013-10-06 21:37:08 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-06 21:37:08 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-06 21:37:08 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-06 21:37:08 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:37:08 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-06 21:37:08 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-06 21:37:08 [INFO] Done (2,494s)! For help, type "help" or "?"
+2013-10-06 21:37:13 [INFO] Roach_1608[/127.0.0.1:57357] logged in with entity id 384 at ([world] -199.00923901439987, 64.0, 65.07512373120628)
+2013-10-06 21:37:57 [INFO] RIGHT_CLICK_BLOCK
+2013-10-06 21:37:57 [INFO] Roach_1608 lost connection: disconnect.endOfStream
+2013-10-06 21:37:57 [INFO] §eRoach_1608 left the game.
+2013-10-06 21:37:57 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:38:03 [INFO] Roach_1608[/127.0.0.1:57371] logged in with entity id 398 at ([world] -199.4787340070625, 64.0, 65.41082906350147)
+2013-10-06 21:38:14 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-10-06 21:55:00 [INFO] CONSOLE: Stopping the server..[m
+2013-10-06 21:55:00 [INFO] Stopping server
+2013-10-06 21:55:00 [INFO] [EssentialsGeoIP] Disabling EssentialsGeoIP v2.11.1
+2013-10-06 21:55:00 [INFO] [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.11.1
+2013-10-06 21:55:00 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.11.1
+2013-10-06 21:55:00 [INFO] [EssentialsProtect] Disabling EssentialsProtect v2.11.1
+2013-10-06 21:55:00 [INFO] [EssentialsChat] Disabling EssentialsChat v2.11.1
+2013-10-06 21:55:00 [INFO] [EssentialsXMPP] Disabling EssentialsXMPP v2.11.1
+2013-10-06 21:55:00 [INFO] [Essentials] Disabling Essentials v2.11.1
+2013-10-06 21:55:00 [INFO] [ServerSigns] Disabling ServerSigns v2.9.1
+2013-10-06 21:55:00 [INFO] [ServerSigns] ServerSigns is now disabled.
+2013-10-06 21:55:00 [INFO] [Roach_1608 Shortcuts] Disabling Roach_1608 Shortcuts v0.0.1
+2013-10-06 21:55:00 [INFO] [Roach_1608 Shortcuts] Shortcuts.onDisable has been invoked!
+2013-10-06 21:55:00 [INFO] Saving players
+2013-10-06 21:55:00 [WARNING] DSCT: Socket closed
+2013-10-06 21:55:00 [INFO] Closing listening thread
+2013-10-06 21:55:00 [INFO] §eRoach_1608 left the game.
+2013-10-06 21:55:00 [INFO] Saving worlds
+2013-10-06 21:55:00 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-06 21:55:01 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-06 21:55:01 [INFO] Saving chunks for level 'world_the_end'/The End

@@ -1,0 +1,49 @@
+timestamps:
+<<<<<<< HEAD
+  login: 1381085758883
+  logout: 1381084529587
+  lastteleport: 1381085860321
+=======
+  login: 1380910183268
+  logout: 1380910631291
+  lastteleport: 1380134900038
+>>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339
+ipAddress: 127.0.0.1
+afk: true
+logoutlocation:
+  world: world
+<<<<<<< HEAD
+  x: -198.26581940266487
+  y: 64.0
+  z: 63.867542767346954
+  yaw: -356.9997
+  pitch: 13.950037
+lastlocation:
+  world: world
+  x: -199.30363459811556
+  y: 64.0
+  z: 65.20684816659207
+  yaw: -353.8495
+  pitch: 9.000029
+homes:
+  home:
+    world: world
+    x: -205.93496952585815
+    y: 64.0
+    z: 68.91560013702497
+    yaw: 275.25104
+    pitch: 32.09575
+=======
+  x: -209.75262924718464
+  y: 60.0
+  z: 62.7544776855287
+  yaw: -202.4997
+  pitch: 22.500015
+lastlocation:
+  world: world
+  x: -199.5
+  y: 66.0
+  z: 149.5
+  yaw: -91.64983
+  pitch: 42.000015
+>>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339

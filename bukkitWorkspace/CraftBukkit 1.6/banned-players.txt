@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Updated 06/10/13 20:55 by Minecraft 1.6.2
-=======
-# Updated 04/10/13 20:08 by Minecraft 1.6.2
->>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339
+# Updated 06/10/13 21:37 by Minecraft 1.6.2
 # victim name | ban date | banned by | banned until | reason
 
+<<<<<<< HEAD|2013-10-06 21:28:51 +0200|(Unknown)|Forever|Banned by an operator.
+=======|2013-10-06 21:28:51 +0200|(Unknown)|Forever|Banned by an operator.
+>>>>>>> a792d1b721da8a4ca1c447ba1adc34e9349c2339|2013-10-06 21:28:51 +0200|(Unknown)|Forever|Banned by an operator.
