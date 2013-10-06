@@ -50,20 +50,51 @@ public class Shortcuts extends JavaPlugin implements Listener {
 			System.out.println("/weather rain");
 			Bukkit.getServer().dispatchCommand(sender,  "weather storm");
 		} else if (cmd.getName().equals("ct")){
-			System.out.println("/custom teleport " + args[0]);
-			System.out.println(sender);
-			Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0]);		
+			if (free)
+			{
+				System.out.println("/custom teleport " + args[0]);
+				System.out.println(sender);
+				Bukkit.getServer().dispatchCommand(sender,  "warp " + args[0]);
+			}
 		} 
 		return false;
 	}
 	
+	
+	private boolean free = true;
+	
 	@EventHandler(priority=EventPriority.HIGH)
 	public void onPlayerUse(PlayerInteractEvent event){
-	    //Player p = event.getPlayer();
+	    Player p = event.getPlayer();
 	    //Block b = event.getClickedBlock();
 	    Sign sign = (Sign)event.getClickedBlock().getState();
-	    sign.setLine(2, "JLL"); 
 	    System.out.println(event.getAction());
+	    
+	    
+	    String counters = sign.getLine(0);
+	    String counter[] = counters.split("/");
+	    
+	    try
+	    {
+	    	int count = Integer.parseInt(counter[0]);
+	    	int max = Integer.parseInt(counter[1]);
+	    	if (count >= max)
+	    	{
+	    		free = false;
+	    	}
+	    	else
+	    	{
+		    	count = count + 1;
+	    		String newCounters = "" + count + "/" + counter[1];
+	    		sign.setLine(0, newCounters);
+	    		sign.update();
+	    	}
+	    }
+	    catch (NumberFormatException ex)
+	    {
+	    	p.sendMessage("Format invalide");
+	    }
+	    
 	    //System.out.println("This is Class: " + event.getClickedBlock().getClass());
 	    /*
 	    if(p.getItemInHand().getType() == Material.BLAZE_POWDER){
