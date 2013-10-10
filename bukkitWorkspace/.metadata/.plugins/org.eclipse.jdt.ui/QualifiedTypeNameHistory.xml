@@ -11,4 +11,10 @@
 <fullyQualifiedTypeName name="org.bukkit.block.Block"/>
 <fullyQualifiedTypeName name="org.bukkit.block.Sign"/>
 <fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="org.bukkit.event.entity.PlayerDeathEvent"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.ScoreboardManager"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.Team"/>
+<fullyQualifiedTypeName name="org.bukkit.scoreboard.Scoreboard"/>
 </qualifiedTypeNameHistroy>

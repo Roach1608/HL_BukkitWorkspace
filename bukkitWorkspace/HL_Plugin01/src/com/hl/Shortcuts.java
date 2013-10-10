@@ -1,5 +1,8 @@
 package com.hl;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import org.bukkit.Bukkit;
 import org.bukkit.block.Block;
 import org.bukkit.block.Sign;
@@ -7,12 +10,16 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.event.block.*;
+import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.scoreboard.Scoreboard;
+import org.bukkit.scoreboard.ScoreboardManager;
+import org.bukkit.scoreboard.Team;
 
 public class Shortcuts extends JavaPlugin implements Listener {
 
@@ -24,6 +31,10 @@ public class Shortcuts extends JavaPlugin implements Listener {
 	    pm.registerEvents(this, this);
 		getLogger().info("registered listener");
         getServer().getScheduler().runTaskLaterAsynchronously(this, new StartingPointTeleporter(), 0L);
+        ScoreboardManager manager = Bukkit.getScoreboardManager();
+        Scoreboard board = manager.getNewScoreboard();
+        Team red = board.registerNewTeam("RED");
+        Team blue = board.registerNewTeam("BLUE");
     }
 	
 	@Override
@@ -64,6 +75,59 @@ public class Shortcuts extends JavaPlugin implements Listener {
 	
 	
 	private boolean free = true;
+	//String = map name
+	private static Map<String, Occupation> audience = new HashMap<String, Occupation>();
+	
+	
+	private void teleport(Sign sign, Player p)
+	{
+	    String counters = sign.getLine(3);
+	    String counter[] = counters.split("/");
+   
+	    try
+	    {
+	    	int count = Integer.parseInt(counter[0]);
+	    	int max = Integer.parseInt(counter[1]);
+	    	if (count >= max)
+	    	{
+	    		free = false;
+	    	}
+	    	else
+	    	{
+		    	count = count + 1;
+	    		String newCounters = "" + count + "/" + counter[1];
+	    		sign.setLine(3, newCounters);
+	    		sign.update();
+			    String lobby = sign.getLine(0).split("@")[1].split("]")[0];
+			    
+			    if (!audience.containsKey(lobby))
+			    {
+			    	audience.put(lobby, new Occupation());
+			    }
+			    else
+			    {
+			    	Occupation o = audience.get(lobby);
+			    	o.setActual(count);
+			    	o.setMax(max);
+			    	audience.put(lobby, o);
+			    }
+			    
+				Bukkit.getServer().dispatchCommand(p,  "warp " + lobby);
+	    	}
+	    }
+	    catch (NumberFormatException ex)
+	    {
+	    	p.sendMessage("Format invalide");
+	    }
+	}
+	
+	private void joinTeam(Sign sign, Player p)
+	{
+		
+		
+    	String startingPoint = sign.getLine(0).substring(1, sign.getLine(0).length() - 1);
+		Bukkit.getServer().dispatchCommand(p,  "warp " + startingPoint);		    	
+	}
 	
 	@EventHandler(priority=EventPriority.HIGH)
 	public void onPlayerUse(PlayerInteractEvent event){
@@ -73,32 +137,26 @@ public class Shortcuts extends JavaPlugin implements Listener {
 		    //Block b = event.getClickedBlock();
 		    Sign sign = (Sign)event.getClickedBlock().getState();
 		    System.out.println(event.getAction());
-		    
-		    
-		    String counters = sign.getLine(0);
-		    String counter[] = counters.split("/");
-		    
-		    try
+		    String line0 = sign.getLine(0);
+		    if (line0.startsWith("[@"))
 		    {
-		    	int count = Integer.parseInt(counter[0]);
-		    	int max = Integer.parseInt(counter[1]);
-		    	if (count >= max)
-		    	{
-		    		free = false;
-		    	}
-		    	else
-		    	{
-			    	count = count + 1;
-		    		String newCounters = "" + count + "/" + counter[1];
-		    		sign.setLine(0, newCounters);
-		    		sign.update();
-		    	}
+			    teleport(sign, p);
 		    }
-		    catch (NumberFormatException ex)
+		    else if (line0.startsWith("[red@"))
 		    {
-		    	p.sendMessage("Format invalide");
+		    	joinTeam(sign, p);
+		    }
+		    else if (line0.startsWith("[blue@"))
+		    {
+		    	
 		    }
 
 		}
+	}
+	
+	@EventHandler(priority=EventPriority.HIGH)
+	public void onPlayerDeath(PlayerDeathEvent event)
+	{
+		
 	}
 }

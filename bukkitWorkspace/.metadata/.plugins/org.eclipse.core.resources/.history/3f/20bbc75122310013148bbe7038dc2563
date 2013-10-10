@@ -1,0 +1,18 @@
+package com.hl;
+
+public class Occupation {
+	private int actual;
+	private int max;
+	public int getActual() {
+		return actual;
+	}
+	public void setActual(int actual) {
+		this.actual = actual;
+	}
+	public int getMax() {
+		return max;
+	}
+	public void setMax(int max) {
+		this.max = max;
+	}
+}
