@@ -5,7 +5,7 @@ public class Occupation {
 	private int max;
 	
 	private int redMembers;
-	private int blueMenbers;
+	private int blueMembers;
 	
 	public int getRedMembers() {
 		return redMembers;
@@ -13,11 +13,11 @@ public class Occupation {
 	public void setRedMembers(int redMembers) {
 		this.redMembers = redMembers;
 	}
-	public int getBlueMenbers() {
-		return blueMenbers;
+	public int getBlueMembers() {
+		return blueMembers;
 	}
-	public void setBlueMenbers(int blueMenbers) {
-		this.blueMenbers = blueMenbers;
+	public void setBlueMembers(int blueMembers) {
+		this.blueMembers = blueMembers;
 	}
 	public int getActual() {
 		return actual;

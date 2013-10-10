@@ -7335,3 +7335,60 @@ Caused by: java.lang.ClassCastException: org.bukkit.craftbukkit.v1_6_R2.block.Cr
 2013-10-09 22:17:14 [INFO] Saving chunks for level 'world'/Overworld
 2013-10-09 22:17:14 [INFO] Saving chunks for level 'world_nether'/Nether
 2013-10-09 22:17:15 [INFO] Saving chunks for level 'world_the_end'/The End
+2013-10-10 20:18:53 [INFO] Starting minecraft server version 1.6.2
+2013-10-10 20:18:53 [INFO] Loading properties
+2013-10-10 20:18:54 [INFO] Default game type: SURVIVAL
+2013-10-10 20:18:54 [INFO] Generating keypair
+2013-10-10 20:18:54 [INFO] Starting Minecraft server on *:25565
+2013-10-10 20:18:54 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.2-R1.0-b2879jnks (MC: 1.6.2) (Implementing API version 1.6.2-R1.0)
+2013-10-10 20:18:54 [INFO] [Roach_1608 Shortcuts] Loading Roach_1608 Shortcuts v0.0.1
+2013-10-10 20:18:54 [INFO] [ServerSigns] Loading ServerSigns v2.9.1
+2013-10-10 20:18:54 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsXMPP] Loading EssentialsXMPP v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-10 20:18:54 [INFO] [EssentialsGeoIP] Loading EssentialsGeoIP v2.11.1
+2013-10-10 20:18:54 [INFO] Preparing level "world"
+2013-10-10 20:18:54 [INFO] Preparing start region for level 0 (Seed: 5555824046196060051)
+2013-10-10 20:18:55 [INFO] Preparing start region for level 1 (Seed: 5555824046196060051)
+2013-10-10 20:18:55 [INFO] Preparing start region for level 2 (Seed: 5555824046196060051)
+2013-10-10 20:18:55 [INFO] [Roach_1608 Shortcuts] Enabling Roach_1608 Shortcuts v0.0.1
+2013-10-10 20:18:55 [INFO] [Roach_1608 Shortcuts] Shortcuts.onEnable has been invoked!
+2013-10-10 20:18:55 [INFO] [Roach_1608 Shortcuts] got PluginManager
+2013-10-10 20:18:55 [INFO] [Roach_1608 Shortcuts] registered listener
+2013-10-10 20:18:55 [INFO] [ServerSigns] Enabling ServerSigns v2.9.1
+2013-10-10 20:18:55 [INFO] [ServerSigns] Please download Vault at http://dev.bukkit.org/server-mods/vault/ for Economy and "Permission grant" support.
+2013-10-10 20:18:55 [INFO] [ServerSigns] Version 2.9.1 is now enabled.
+2013-10-10 20:18:55 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-10 20:18:56 [INFO] Essentials: Using config file enhanced permissions.
+2013-10-10 20:18:56 [INFO] Permissions listed in as player-commands will be given to all users.
+2013-10-10 20:18:56 [INFO] [EssentialsXMPP] Enabling EssentialsXMPP v2.11.1
+2013-10-10 20:18:56 [WARNING] config broken for xmpp
+2013-10-10 20:18:56 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-10 20:18:56 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-10 20:18:56 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-10 20:18:56 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-10 20:18:56 [INFO] [EssentialsGeoIP] Enabling EssentialsGeoIP v2.11.1
+2013-10-10 20:18:56 [INFO] [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+2013-10-10 20:18:56 [INFO] Done (2,077s)! For help, type "help" or "?"
+2013-10-10 20:18:57 [INFO] [Metrics] Connection reset
+2013-10-10 20:20:14 [INFO] Roach_1608[/127.0.0.1:57160] logged in with entity id 383 at ([world] -197.11104140637337, 64.0, 64.25159030336984)
+2013-10-10 20:20:35 [INFO] Roach_1608 issued server command: /day
+2013-10-10 20:20:36 [INFO] /time set day
+2013-10-10 20:22:07 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:22:31 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:22:41 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:09 [INFO] Roach_1608 issued server command: /warp blue@start
+2013-10-10 20:23:22 [INFO] Roach_1608 issued server command: /setwarp blue@start
+2013-10-10 20:23:22 [INFO] Création d'une configuration vierge : /Users/hadrien/Documents/GitHub/HL_BukkitWorkspace/bukkitWorkspace/CraftBukkit 1.6/plugins/Essentials/warps/blue_start.yml
+2013-10-10 20:23:26 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:30 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:33 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:34 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:34 [INFO] RIGHT_CLICK_BLOCK
+2013-10-10 20:23:57 [INFO] Roach_1608 issued server command: /warp blue@start
+2013-10-10 20:27:53 [INFO] Roach_1608 issued server command: /warp @red azerty
+2013-10-10 20:28:57 [INFO] [Metrics] Connection reset
+2013-10-10 20:29:12 [INFO] Roach_1608 issued server command: /kill Roach_1608
